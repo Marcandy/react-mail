@@ -13,7 +13,7 @@ export default class Header extends React.Component {
 						src="assets/react-logo.svg"
 						style={ styles.logoImage }
 					/>
-					<Link t0="/"><h1 style={ styles.header }>rMail</h1></Link>
+					<Link to="/"><h1 style={ styles.header }>rMail</h1></Link>
 				</div>
 
 				<div>
